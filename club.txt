@@ -1,0 +1,42 @@
+<html>
+<head>
+	<link rel="stylesheet" href="styles.css">
+	<title>
+		ONLINE JOB ENROLLMENT
+	</title>
+	<h1 align="center">ONLINE JOB ENROLLMENT</h1>
+	<div align="center">
+		<a href="index.html" title="home">HOME</a> |
+		<a href="student.html" title="login">LOGIN</a> |
+		<a href="contact.html" title="contact">CONTACT</a> |
+		<a href="aboutus.html" title="about us">ABOUT US</a>	
+	</div>
+	
+	<hr>
+</head>
+<body>
+	<div align="center">
+	    <a href="student.html">Student</a> |
+	    <a href="teacher.html">Teacher</a> |
+	    <a href="company.html">Company</a> |
+	    <a href="club.html">Club</a> 
+	</div>
+	<div align="center">
+		<table>
+			<tr>
+				<th>USER NAME</th>
+				<th><input type="text" name=""></th>
+			</tr>
+			<tr>
+				<th>PASSWORD</th>
+				<th><input type="text" name=""></th>
+			</tr>
+			<tr>
+				<th><input type="button" name="LOGIN" value="LOGIN"></th>
+				<th><a href="clubcreateaccount.html"><input type="button" name="" value="CREATE ACCOUNT"></th>
+			</tr>
+		</table>
+		</table>
+	</div>
+</body>
+</html>
