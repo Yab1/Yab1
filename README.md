@@ -41,6 +41,6 @@ I value clarity over complexity, and I focus on building software that works wel
 
 ## Contact
 
-* Portfolio: <https://yab1.vercel.app>
+* Portfolio: <https://yeabsera-dev.vercel.app/>
 * LinkedIn: <https://www.linkedin.com/in/yab1>
 * Email: [yeabsera.dev@gmail.com](mailto:yeabsera.dev@gmail.com)
